@@ -1,0 +1,6 @@
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\bin\Debug\ParallelTasks.exe.config
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\bin\Debug\ParallelTasks.exe
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\bin\Debug\ParallelTasks.pdb
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\obj\Debug\ParallelTasks.exe
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\obj\Debug\ParallelTasks.pdb
+c:\users\sogolovj\documents\visual studio 2012\Projects\ParallelTasks\ParallelTasks\obj\Debug\ParallelTasks.csprojResolveAssemblyReference.cache
